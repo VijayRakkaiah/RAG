@@ -53,7 +53,7 @@ def ask_question(user_question):
     
     please provide a clear, helpful answers using only the information from these documents.
     If you can find the answer from the provided documents, say "i don't have enough information to answer your question based on the provided documents."
-"""
+    """
 
     # step 4: get the answer
     message = [
