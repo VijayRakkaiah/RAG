@@ -90,7 +90,6 @@ def start_chat():
 if __name__ == "__main__":
     start_chat()
 
-
 # "C:\Users\Admin\Data Science\rag\.venv\Scripts\python.exe" "C:\Users\Admin\Data Science\rag\04_history_aware_generation.py"
 # Ask me questions! Type 'quit' to exit.
 #
